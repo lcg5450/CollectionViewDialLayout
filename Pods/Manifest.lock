@@ -1,0 +1,31 @@
+PODS:
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - RxCocoa (= 4.3.1)
+  - RxSwift (= 4.3.1)
+  - SDWebImage
+  - SnapKit (= 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxSwift
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 354cd890729e89daf86ac5388af49a030d657550
+
+COCOAPODS: 1.8.4
